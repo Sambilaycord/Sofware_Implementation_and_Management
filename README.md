@@ -1,5 +1,5 @@
-# CS326 - Sofware Implementation and Management Course Lab Activities
-Welcome to the CS326 - Sofware Implementation and Management Course Lab Activities repository! This repository contains the lab activities for the CS326 Sofware Implementation and Management course, covering various essential topics and hands-on exercises.
+# CS326 - Software Implementation and Management Course Lab Activities
+Welcome to the CS326 - Software Implementation and Management Course Lab Activities repository! This repository contains the lab activities for the CS326 Software Implementation and Management course, covering various essential topics and hands-on exercises.
 
 ## Lab Activities
 ### Lab Activity 1: Program Debugging
